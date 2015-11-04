@@ -1,1 +1,1 @@
-mean(Theoph$conc)
+mean(Theoph$Wt)
